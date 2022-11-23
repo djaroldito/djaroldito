@@ -14,12 +14,26 @@ Capacidad de rapido aprendizaje, resolucion de problemas, adaptabilidad, lideraz
 Facil integracion a grupos de trabajo.
 
 Proyectos Deployados:
+
+
 https://e-guitar-react.vercel.app/ 
+
+
 https://pi-dogs-v1-0.vercel.app/
 
 Contacto:
+
+
 Ariel Monti
+
+
 aromon@hotmail.com
+
+
 djaroldito@gmail.com
+
+
 https://www.linkedin.com/in/ariel-monti-8239ab206
+
+
 Arroyo Seco - Santa Fe - Argentina
