@@ -13,6 +13,8 @@ Mi objetivo y realidad actual es crecer en la Industria Tech capacintándome con
 Capacidad de rapido aprendizaje, resolucion de problemas, adaptabilidad, liderazgo y proactividad.
 Facil integracion a grupos de trabajo.
 
+Estoy actualmente buscando mi primer empleo en el area IT.
+
 Proyectos Deployados:
 
 
